@@ -1,0 +1,1 @@
+def detecter_mot_suspect(texte,mot_suspect):
